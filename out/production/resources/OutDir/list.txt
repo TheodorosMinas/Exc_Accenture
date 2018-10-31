@@ -1,0 +1,4 @@
+src\main\resources\TheDir\FILE2.txt
+src\main\resources\TheDir\FILE3.txt
+src\main\resources\TheDir\TEST1.txt
+src\main\resources\TheDir\TheSubDir\FILE5.txt
